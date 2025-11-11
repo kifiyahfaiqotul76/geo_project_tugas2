@@ -14,7 +14,7 @@ tugas 2 menambahkan fitur untuk menghitung jarak dari lokasi pengguna ketitik te
     3. henti lacak
 
 ## titik tetap PNB ##
-Lokasi acuan untuk tugas ini adalah politeknik negeri banyuwangi (PNB)
+Lokasi acuan untuk tugas ini adalah dari rumah saya singojuruh ke  politeknik negeri banyuwangi (PNB)
 
 Hasil Tampilan 
 ![hasil tugas2](https://github.com/user-attachments/assets/4303a57d-dc57-4c4f-92c5-1194b20b40fa)
